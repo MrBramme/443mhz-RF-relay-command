@@ -17,6 +17,7 @@ You can find the library here: [rc-switch](https://github.com/sui77/rc-switch)
 
 ## Step 2: Hook up the hardware
 You can hook up both modules at once, we'll navigate through the scripts to use the proper module based on pin but that way you only have to set it up once (using a breadboard).
+
 Arduino | Receiver
 ------------ | -------------
 5V | 5V
